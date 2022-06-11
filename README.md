@@ -4,4 +4,5 @@ It is based upon previous data regarding those who were on the Titanic.
 
 To_Do:
 1- improve the accuracy.
+
 2- use more visualizations.
